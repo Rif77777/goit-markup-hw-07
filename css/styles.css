@@ -203,7 +203,7 @@
     pointer-events: none;
   }
 
-  .mobile-menu.js-open {
+  .mobile-menu .js-open {
     opacity: 1;
     visibility: visible;
     pointer-events: auto;
@@ -313,11 +313,11 @@
     fill: #f4f4fd;
   }
 
-  .mobile-social-list-link:hover, {
+  .mobile-social-list-link:hover,  
   .mobile-social-list-link:focus {
     background: #404bbf;
   }
-}
+
 
 @media screen and (min-width: 428px) {
   .contacts-list-link-number {
