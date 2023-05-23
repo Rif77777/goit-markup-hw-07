@@ -377,12 +377,19 @@
   margin-bottom: auto;
 }
 
+
+
+
 .mobile-nav-list {
   display: flex;
   flex-direction: column;
-  align-items: center;
   gap: 40px;
+  padding-top: 80px;
+  padding-right: 40px;
 }
+
+
+
 
 .mobile-nav-list-link {
   font-weight: 700;
@@ -408,7 +415,9 @@
   flex-direction: column;
   justify-content: center;
   gap: 40px;
-  margin-bottom: 48px;
+  padding-bottom: 40px;
+  margin-left: 40px;
+  margin-right: 35px;
 }
 
 .contacts-list-link-number:hover,
