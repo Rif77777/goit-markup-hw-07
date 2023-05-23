@@ -173,9 +173,7 @@
     .navi-list {
       display: none;
     }
-    .image-section {
-      display: none;
-    }
+   
     .contacts {
       display: none;
     }
@@ -689,11 +687,8 @@
   }
   
 
-
-
-
   .image-section {
-    padding-top: 0;
+   display: none;
   }
   
 
