@@ -1175,7 +1175,7 @@
   
   .modal {
     position: absolute;
-    width: 408px;
+    width: 96%;
     min-height: 584px;
     padding: 72px 24px 24px 24px;
     background: #fcfcfc;
@@ -1210,7 +1210,6 @@
   .modal-btn-close:hover,
   .modal-btn-close:focus {
     background: #404bbf;
-    border: none;
   }
   
   .modal-btn-icon {
@@ -1237,7 +1236,7 @@
   .modal-form {
     display: flex;
     flex-direction: column;
-    width: 360px;
+    
     
   
     
@@ -1389,7 +1388,17 @@
     color: #4D5AE5;
   }
 
-
+  @media screen and (min-width: 428px) {
+    .modal {
+      max-width: 392px;
+    }
+  }
+  
+  @media screen and (min-width: 768px) {
+    .modal {
+      width: 408px;
+    }
+  }
 
 
 
