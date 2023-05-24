@@ -1139,7 +1139,13 @@
       margin-left: auto;
       width: 453px;
     }
+
+    .wrapper-list {
+      padding-right: 80px;
+    }
+
   }
+  
   
 
 
