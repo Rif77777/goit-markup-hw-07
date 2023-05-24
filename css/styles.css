@@ -60,9 +60,9 @@
 
   }
   
-  @media screen and (min-width: 1200px) {
+  @media screen and (min-width: 1158px) {
     .container {
-      width: 1158px;
+      width: 1160px;
     }
   }
   
@@ -101,7 +101,7 @@
     padding-bottom: 96px;
   }
 
-  @media screen and (min-width: 1200px) {
+  @media screen and (min-width: 1158px) {
     .section {
       padding-bottom: 120px;
       padding-top: 120px;
@@ -255,7 +255,7 @@
   }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1158px) {
   .list-contacts-container {
     display: flex;
     align-items: center;
@@ -549,7 +549,7 @@
   }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1158px) {
   .section-main {
     background-image: linear-gradient(
         rgba(46, 47, 66, 0.7),
@@ -560,9 +560,9 @@
   }
 }
 
-@media screen and (min-device-pixel-ratio: 2) and (min-width: 1200px),
-  screen and (min-resolution: 192dpi) and (min-width: 1200px),
-  screen and (min-resolution: 2dppx) and (min-width: 1200px) {
+@media screen and (min-device-pixel-ratio: 2) and (min-width: 1158px),
+  screen and (min-resolution: 192dpi) and (min-width: 1158px),
+  screen and (min-resolution: 2dppx) and (min-width: 1158px) {
   .section-main {
     background-image: linear-gradient(
         rgba(46, 47, 66, 0.7),
@@ -643,7 +643,7 @@
     }
   }
 
-  @media screen and (min-width: 1200px) {
+  @media screen and (min-width: 1158px) {
     .subtitle {
       display: flex;
       justify-content: space-between;
@@ -693,7 +693,7 @@
    display: none;
   }
   
-  @media screen and (min-width: 1200px) {
+  @media screen and (min-width: 1158px) {
     .image-section {
       display: block;
       padding-top: 0;
@@ -819,7 +819,7 @@
     }
   }
   
-  @media screen and (min-width: 1200px) {
+  @media screen and (min-width: 1158px) {
     .team-list-container {
       display: flex;
       flex-wrap: nowrap;
@@ -917,7 +917,7 @@
     }
   }
   
-  @media screen and (min-width: 1200px) {
+  @media screen and (min-width: 1158px) {
     .customers-container {
       width: 1158px;
     }
@@ -1119,7 +1119,7 @@
     }
   }
   
-  @media screen and (min-width: 1200px) {
+  @media screen and (min-width: 1158px) {
     .footer {
       padding: 100px 0;
     }
