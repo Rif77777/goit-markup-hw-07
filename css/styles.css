@@ -1143,6 +1143,9 @@
     .footer-left-container {
       margin-right: 120px;
     }
+
+     
+    
   
     .footer-form {
       margin-left: auto;
@@ -1559,12 +1562,6 @@
 
 
 
-
-
-  
-
-  
-
   .features-subtitle {
     font-size: 16px;
     line-height: 1.5;
@@ -1580,16 +1577,6 @@
     color: #f4f4fd;
   }
   
-
-
-
-
- 
-   
-  
-  
-  
-
   .title {
     font-weight: 700;
     font-size: 36px;
@@ -1602,6 +1589,8 @@
   
  
   
-
+.social-subjekt {
+  padding-right: 80px;
+}
   
  
