@@ -1422,12 +1422,7 @@
     }
   }
 
-  @media screen and (min-width: 320px) and (max-width: 400px) {
-    .modal {
-      width: 312px;
-      padding: 72px 16px 24px 16px;
-    }
-  }
+ 
 
 
 
